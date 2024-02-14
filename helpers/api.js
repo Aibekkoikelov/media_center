@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const req =  axios.create({
-    baseURL:"http://192.168.0.102:3001"
+    baseURL:"http://localhost.railway.internal"
 })
 
 export default req
