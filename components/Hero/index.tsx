@@ -26,7 +26,7 @@ const Hero = () => {
                 <Link href="?modal=true">
                   <button type="button"
                           className="rounded-3xl flex xs:w-full lg:w-1/4 mx-auto mt-[50px] items-center justify-center bg-primary p-3 text-base font-semibold text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp">
-                    Заказать звонок
+                    Заказать звонок мне
                   </button>
                 </Link>
 
