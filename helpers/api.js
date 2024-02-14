@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const req =  axios.create({
-    baseURL:"http://localhost.railway.internal"
+    baseURL:"http://mediacenterback-production.up.railway.app"
 })
 
 export default req
